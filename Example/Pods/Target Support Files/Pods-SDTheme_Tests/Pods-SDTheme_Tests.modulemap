@@ -1,0 +1,6 @@
+framework module Pods_SDTheme_Tests {
+  umbrella header "Pods-SDTheme_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

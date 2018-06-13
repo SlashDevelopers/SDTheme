@@ -1,0 +1,6 @@
+framework module Pods_SDTheme_Example {
+  umbrella header "Pods-SDTheme_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

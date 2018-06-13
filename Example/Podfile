@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SDTheme_Example' do
+  pod 'SDTheme', :path => '../'
+
+  target 'SDTheme_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

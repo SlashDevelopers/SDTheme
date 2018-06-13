@@ -1,0 +1,16 @@
+PODS:
+  - SDTheme (0.1.0)
+
+DEPENDENCIES:
+  - SDTheme (from `../`)
+
+EXTERNAL SOURCES:
+  SDTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDTheme: 45cb4d77ca162065407f448f14fb468b6b4bd390
+
+PODFILE CHECKSUM: 6d1b5f0b19df0c4fc33e41bc57246ca2154886f6
+
+COCOAPODS: 1.5.0
