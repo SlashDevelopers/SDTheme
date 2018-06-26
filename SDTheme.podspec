@@ -9,34 +9,19 @@
 Pod::Spec.new do |s|
   s.name             = 'SDTheme'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SDTheme.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.summary          = 'A lightweight skin switching solution.'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/SlashDevelopers/SDTheme'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'maligh' => '455080311@qq.com' }
+  s.author           = { 'maligh' => '455080311@qq.com' , 'culeo' => '1823280359@qq.com'}
   s.source           = { :git => 'https://github.com/SlashDevelopers/SDTheme.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
   s.ios.deployment_target = '8.0'
+  s.source_files = 'SDTheme/Classes/**/*.{m,h}'
+  s.public_header_files = 'SDTheme/Classes/**/*.h'
 
-  s.source_files = 'SDTheme/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'SDTheme' => ['SDTheme/Assets/*.png']
-  # }
 
-   s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
