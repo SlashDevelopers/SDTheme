@@ -1,9 +1,9 @@
 PODS:
-  - SDTheme (0.1.1):
-    - SDTheme/Core (= 0.1.1)
-    - SDTheme/UIKit (= 0.1.1)
-  - SDTheme/Core (0.1.1)
-  - SDTheme/UIKit (0.1.1):
+  - SDTheme (0.1.0):
+    - SDTheme/Core (= 0.1.0)
+    - SDTheme/UIKit (= 0.1.0)
+  - SDTheme/Core (0.1.0)
+  - SDTheme/UIKit (0.1.0):
     - SDTheme/Core
 
 DEPENDENCIES:
@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SDTheme: 55e2e1e41ef8d18da3ab2011f2bd3bcbf0c12e52
+  SDTheme: 429d00ff0c1e27f04fbf1c9aa667abca77ecabdc
 
 PODFILE CHECKSUM: 6d1b5f0b19df0c4fc33e41bc57246ca2154886f6
 

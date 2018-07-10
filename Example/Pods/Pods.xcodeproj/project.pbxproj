@@ -124,11 +124,11 @@
 		6A0C8B1A49515CD24122EDD5AC3768F5 /* UIImageView+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+SDTheme.m"; sourceTree = "<group>"; };
 		6A4626CB566587D97A50C5DF877AA991 /* Pods-SDTheme_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SDTheme_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6F69ECBF4FFD0A940B96DC1AA0989926 /* SDTheme-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDTheme-umbrella.h"; sourceTree = "<group>"; };
-		73D6267B2B3888DAFC7C4385B6E8CCCC /* SDTheme.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDTheme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		73D6267B2B3888DAFC7C4385B6E8CCCC /* SDTheme.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SDTheme.framework; path = SDTheme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7622845A49A3323214D0B183195234C2 /* UIButton+SDTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+SDTheme.h"; sourceTree = "<group>"; };
 		76D1DC9A6DC1409C06209DFEAB657236 /* NSObject+SDTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSObject+SDTheme.h"; sourceTree = "<group>"; };
-		7ACC82461A155C2683E3B8E85953033E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		7B36AC728D2B4F4B3E99C7D94327E4D8 /* Pods_SDTheme_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDTheme_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ACC82461A155C2683E3B8E85953033E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		7B36AC728D2B4F4B3E99C7D94327E4D8 /* Pods_SDTheme_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SDTheme_Example.framework; path = "Pods-SDTheme_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C8F3D89AFFC5B414C275F20CF7AC83B /* UISwitch+SDTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UISwitch+SDTheme.h"; sourceTree = "<group>"; };
 		7D47095A8669DD5B4A5242C9CD48847F /* NSAttributedString+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSAttributedString+SDTheme.m"; sourceTree = "<group>"; };
 		7DD420A23C92CA439AF889C8F7BDD88C /* UIApplication+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+SDTheme.m"; sourceTree = "<group>"; };
@@ -137,10 +137,10 @@
 		82893520584960BD78F995133CA2ADA9 /* Pods-SDTheme_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SDTheme_Tests-resources.sh"; sourceTree = "<group>"; };
 		86ED7B0D4FE5E1D5BFA15520AC2DCAB4 /* UITextField+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextField+SDTheme.m"; sourceTree = "<group>"; };
 		8B212209C56E022E371C774EB7C38C09 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		951529C04654B581FF35A1872549934B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		951529C04654B581FF35A1872549934B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		962A3CDDBE78498AF0A2F8E79E6EB168 /* UIColor+SDExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+SDExtension.h"; sourceTree = "<group>"; };
-		98F05778625802DDDCFA9E020AF03F5B /* Pods_SDTheme_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SDTheme_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		98F05778625802DDDCFA9E020AF03F5B /* Pods_SDTheme_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SDTheme_Tests.framework; path = "Pods-SDTheme_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DB41436D56F8F3781EF35A4569D445C /* Pods-SDTheme_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SDTheme_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		9DDA7006E44B0BEF623186F368821538 /* UIButton+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+SDTheme.m"; sourceTree = "<group>"; };
 		9EB06E00B88EB22A1A231881CA4FC8EE /* CALayer+SDTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CALayer+SDTheme.h"; sourceTree = "<group>"; };
@@ -150,7 +150,7 @@
 		A688773E2C576987029AB867FBBF57BD /* UIPageControl+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIPageControl+SDTheme.m"; sourceTree = "<group>"; };
 		A7DED80A413AB3A6B5369FC39CC27744 /* UIImage+SDExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+SDExtension.h"; sourceTree = "<group>"; };
 		A88B6547B99465C01AA73CFBA47B1A99 /* UIBarItem+SDTheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIBarItem+SDTheme.h"; sourceTree = "<group>"; };
-		A90517AAE7BEB50CF88A1C92289D9CF2 /* SDTheme.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = SDTheme.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A90517AAE7BEB50CF88A1C92289D9CF2 /* SDTheme.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = SDTheme.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B09E8D844C649B1C421B30F4EAB8CE07 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0B6A7E36E717FA483B3AFF5DC85A7AD /* Pods-SDTheme_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SDTheme_Tests-umbrella.h"; sourceTree = "<group>"; };
 		B15C17228760EA5A1B165930388361C4 /* UILabel+SDTheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+SDTheme.m"; sourceTree = "<group>"; };
@@ -213,8 +213,6 @@
 		24CF0F5321A3A08BBF8A7DFAF2E2E2D2 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				653274E60174DA2C32F4A90D03643811 /* SDThemeManager.h */,
-				497710CD32A074026B7A45464BA80503 /* SDThemeManager.m */,
 				CFDC24BF825182F6A26D77A7CF7C2E6F /* NSAttributedString+SDTheme.h */,
 				7D47095A8669DD5B4A5242C9CD48847F /* NSAttributedString+SDTheme.m */,
 				3B804A0521DDB7E82B753749F90969DE /* NSDictionary+SDTheme.h */,
@@ -223,6 +221,8 @@
 				7E1E7EE3582DB21DC7CAE57FCD8AA95F /* NSObject+SDDeallocBlock.m */,
 				76D1DC9A6DC1409C06209DFEAB657236 /* NSObject+SDTheme.h */,
 				5225809655755D3F340F4B85E5232A5B /* NSObject+SDTheme.m */,
+				653274E60174DA2C32F4A90D03643811 /* SDThemeManager.h */,
+				497710CD32A074026B7A45464BA80503 /* SDThemeManager.m */,
 				962A3CDDBE78498AF0A2F8E79E6EB168 /* UIColor+SDExtension.h */,
 				1889AEBEB3B32D4C079FC91431E04083 /* UIColor+SDExtension.m */,
 			);
@@ -337,8 +337,6 @@
 			children = (
 				9EB06E00B88EB22A1A231881CA4FC8EE /* CALayer+SDTheme.h */,
 				F53C651ADD9ADE4E8155081579A0CFDF /* CALayer+SDTheme.m */,
-				C62794D660CAE2337A6C161BD36C4F72 /* UIView+SDTheme.h */,
-				CB6938DAFCFF3A0D8589B1CB8B30ABC7 /* UIView+SDTheme.m */,
 				09A8257E296F047F28C5206A440F369B /* CAShapeLayer+SDTheme.h */,
 				559344EE64CA403FAE77CA124E8D79FB /* CAShapeLayer+SDTheme.m */,
 				E773B2DAD6C65F6E6505F145C67A59F8 /* UIActivityIndicatorView+SDTheme.h */,
@@ -373,6 +371,8 @@
 				86ED7B0D4FE5E1D5BFA15520AC2DCAB4 /* UITextField+SDTheme.m */,
 				F475054D6DB0D9C0E0AFB6C8C4BEF153 /* UITextView+SDTheme.h */,
 				48026CA7AAAB9E3FB35A861713D1F64A /* UITextView+SDTheme.m */,
+				C62794D660CAE2337A6C161BD36C4F72 /* UIView+SDTheme.h */,
+				CB6938DAFCFF3A0D8589B1CB8B30ABC7 /* UIView+SDTheme.m */,
 			);
 			name = UIKit;
 			path = SDTheme/Classes/UIKit;

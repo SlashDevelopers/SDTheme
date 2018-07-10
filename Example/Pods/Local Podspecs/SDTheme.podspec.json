@@ -1,6 +1,6 @@
 {
   "name": "SDTheme",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "summary": "A lightweight skin switching solution.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/SlashDevelopers/SDTheme",
@@ -14,7 +14,7 @@
   },
   "source": {
     "git": "https://github.com/SlashDevelopers/SDTheme.git",
-    "tag": "0.1.1"
+    "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
