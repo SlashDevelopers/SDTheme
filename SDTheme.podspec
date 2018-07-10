@@ -20,8 +20,8 @@ TODO: Add long description of the pod here.
   s.author           = { 'maligh' => '455080311@qq.com' , 'culeo' => '1823280359@qq.com'}
   s.source           = { :git => 'https://github.com/SlashDevelopers/SDTheme.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
-  s.source_files = 'SDTheme/Classes/**/*.{m,h}'
-  s.public_header_files = 'SDTheme/Classes/**/*.h'
+  s.source_files = 'SDTheme/Classes/SDTheme.h'
+  s.public_header_files = 'SDTheme/Classes/SDTheme.h'
 
   s.subspec 'Core' do |ss|
     ss.source_files = 'SDTheme/Classes/Core/*.{m,h}'
