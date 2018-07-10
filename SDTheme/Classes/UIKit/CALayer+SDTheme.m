@@ -2,7 +2,7 @@
 //  CALayer+SDTheme.m
 //  SDTheme
 //
-//  Created by MaLi on 2018/5/18.
+//  Created by SlashDevelopers on 2018/5/18.
 //
 
 #import "CALayer+SDTheme.h"

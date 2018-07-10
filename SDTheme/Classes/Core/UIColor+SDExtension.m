@@ -2,7 +2,7 @@
 //  UIColor+SDExtension.m
 //  SDTheme
 //
-//  Created by Ryan Nystrom on 2018/6/7.
+//  Created by SlashDevelopers on 2018/6/7.
 //
 
 #import "UIColor+SDExtension.h"

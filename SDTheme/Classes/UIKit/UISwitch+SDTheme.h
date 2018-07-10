@@ -2,7 +2,7 @@
 //  UISwitch+SDTheme.h
 //  SDTheme
 //
-//  Created by MaLi on 2018/5/8.
+//  Created by SlashDevelopers on 2018/5/8.
 //
 
 #import <UIKit/UIKit.h>

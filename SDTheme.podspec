@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SDTheme'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A lightweight skin switching solution.'
 
   s.description      = <<-DESC
@@ -22,6 +22,16 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
   s.source_files = 'SDTheme/Classes/**/*.{m,h}'
   s.public_header_files = 'SDTheme/Classes/**/*.h'
+
+  s.subspec 'Core' do |ss|
+    ss.source_files = 'SDTheme/Classes/Core/*.{m,h}'
+    ss.public_header_files = 'SDTheme/Classes/Core/*.h'
+  end
+  s.subspec 'UIKit' do |ss|
+    ss.source_files = 'SDTheme/Classes/UIKit/*.{m,h}'
+    ss.public_header_files = 'SDTheme/Classes/UIKit/*.h'
+    ss.dependency 'SDTheme/Core'
+  end
 
 
 end

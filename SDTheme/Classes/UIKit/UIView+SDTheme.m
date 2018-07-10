@@ -2,7 +2,7 @@
 //  UIView+SDTheme.m
 //  HuashengSecurities
 //
-//  Created by 姚伟祺 on 2018/4/25.
+//  Created by SlashDevelopers on 2018/4/25.
 //  Copyright © 2018年 www.hstong.com. All rights reserved.
 //
 
