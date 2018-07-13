@@ -97,5 +97,9 @@ COMBINE_HIDPI_IMAGES 设置为 "NO"
 
 [成品可以在这里直接下载到](https://github.com/SlashDevelopers/HSThemeColorMap/releases/download/v1.0.0/HSThemeColorMap.zip)
 
+---
+
+⭐⭐⭐如果觉得本仓库对您有帮助，请不要吝啬你的Star⭐。您的支持将鼓励我们继续创作！⭐⭐⭐
+
 
 
