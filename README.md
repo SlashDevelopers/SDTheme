@@ -87,4 +87,15 @@ COMBINE_HIDPI_IMAGES 设置为 "NO"
 这是针对UIView提供的扩展，大家可以看到其中有换肤属性`theme_backgroundColor `，如下图，我们在属性`theme_backgroundColor `的`Setter`方法中有根据主题配置调用系统的相应方法，然后对控件注册监听，等切换主题之后就会收到通知，然后执行`theme_didChanged`方法，为控件设置正确的主题UI，That’s all~ 
 ![](https://upload-images.jianshu.io/upload_images/1457495-be5e9bcef42b2b14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## Mac工具
+另外同事写了[一个Mac小工具](https://github.com/SlashDevelopers/HSThemeColorMap/releases/download/v1.0.0/HSThemeColorMap.zip)也顺便分享一下，找一些颜色的时候会提高一些效率。
+![工具图](https://upload-images.jianshu.io/upload_images/1457495-c5f4d92678befdbe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+使用的时候只要把对应的ColorMaps拖进框即可，可能第一次需要输入密码，是因为对文件执行了一个`chmod 777`的命令，目前只支持两个，[代码在这里](https://github.com/SlashDevelopers/HSThemeColorMap)，有大佬有兴趣的欢迎扩展，欢迎RP。
+* 双击Cell 可以快速拿到对应颜色的key到剪贴板，直接`Ctrl+V`到项目代码中即可。
+* 在菜单栏-Eidt->Add Color 可以快捷添加颜色
+
+[成品可以在这里直接下载到](https://github.com/SlashDevelopers/HSThemeColorMap/releases/download/v1.0.0/HSThemeColorMap.zip)
+
+
 
